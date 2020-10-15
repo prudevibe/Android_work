@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bluetooth_sarthi</string>
+    <string name="bluetooth_on">Bluetooth on</string>
+    <string name="bluetooth_off">Bluetooth off</string>
+    <string name="button">Button</string>
+    <string name="discover">discover</string>
+</resources>

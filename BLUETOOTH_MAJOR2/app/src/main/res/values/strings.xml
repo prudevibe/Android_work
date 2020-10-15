@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BLUETOOTH_MAJOR2</string>
+
+    <string name="button_enable_bt">Enable Bluetooth</string>
+    <string name="button_select_file">Select File</string>
+    <string name="button_send">Send Data</string>
+    <string name="button_discover_devices">Discover Nearby Devices</string>
+
+    <string name="toast_bt_enabled">Bluetooth enabled!</string>
+    <string name="toast_file_selected">Selected file:  </string>
+    <string name="toast_error_enable_bt">Bluetooth must be enabled</string>
+    <string name="toast_error_select_file">Select file to send</string>
+    <string name="toast_error_select_file_02">Please select a file</string>
+    <string name="toast_success_send">File data successfully!</string>
+    <string name="toast_error_socket">Unable to create socket</string>
+    <string name="toast_error_connect">Unable to connect to device</string>
+    <string name="toast_error_bytes">Unable to read file</string>
+    <string name="toast_error_output_stream">Unable to send data</string>
+
+    <string name="dialog_error_title">Error</string>
+    <string name="dialog_error_message">Device does not support Bluetooth</string>
+
+    <string name="label_select_device">Select Device</string>
+</resources>
