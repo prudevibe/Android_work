@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">795201005274-4e0hbjr5gm72gio44u21ml9r8q1fqecu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://shop-abf7f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">795201005274</string>
+    <string name="google_api_key" translatable="false">AIzaSyC1l9AU_443aVfmtkB19mA5UUOq_q-2mQc</string>
+    <string name="google_app_id" translatable="false">1:795201005274:android:cc9be7f0b7184dc5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC1l9AU_443aVfmtkB19mA5UUOq_q-2mQc</string>
+    <string name="google_storage_bucket" translatable="false">shop-abf7f.appspot.com</string>
+    <string name="project_id" translatable="false">shop-abf7f</string>
+</resources>
